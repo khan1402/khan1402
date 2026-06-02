@@ -9,9 +9,7 @@
   <a href="mailto:khan.zeeshan1402@gmail.com">
     <img src="https://img.shields.io/badge/Email-khan.zeeshan1402%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white"/>
   </a>
-  <a href="tel:+358413137760">
-    <img src="https://img.shields.io/badge/Phone-%2B358--413--137760-25D366?style=flat&logo=whatsapp&logoColor=white"/>
-  </a>
+  
   <img src="https://img.shields.io/badge/Based_in-Helsinki,_Finland-0055A4?style=flat&logo=googlemaps&logoColor=white"/>
 </p>
 
