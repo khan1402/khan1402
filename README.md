@@ -111,6 +111,6 @@ Full-stack engineering programme covering JavaScript, TypeScript, Node.js, Golan
 ---
 
 <p align="center">
-  <i>Open to internship opportunities in full-stack development, AI engineering, or DevOps. Let's build something great — <a href="mailto:khan.zeeshan1402@gmail.com">get in touch</a>.</i>
+  <i>Open to internship opportunities in full-stack development, AI Engineering, Data Engineering. Let's build something great — <a href="mailto:khan.zeeshan1402@gmail.com">get in touch</a>.</i>
 </p>
 
